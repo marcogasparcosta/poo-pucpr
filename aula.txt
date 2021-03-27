@@ -1,4 +1,0 @@
-ECHO est� ativado.
-Teste Teste
-Teste Teste
-Teste Teste
